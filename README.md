@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://raw.githubusercontent.com/yabsiraditya/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)]
-[![](https://raw.githubusercontent.com/yabsiraditya/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)]
-[![](https://raw.githubusercontent.com/yabsiraditya/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)]
-[![](https://raw.githubusercontent.com/yabsiraditya/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)]
-[![](https://raw.githubusercontent.com/yabsiraditya/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabsiraditya&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yabsiraditya&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yabsiraditya&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yabsiraditya&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yabsiraditya&theme=vue)
