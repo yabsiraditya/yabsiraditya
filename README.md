@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <div style="display: flex; align-items:center;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=yabsiraditya&theme=vue&show_icons=true&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabsiraditya&theme=vue&show_icons=true&hide_border=true&layout=compact" />
-  </div>
-</div>
+
 ![yabsiraditya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yabsiraditya&theme=vue&hide_border=true)
 ![yabsiraditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabsiraditya&theme=vue)
