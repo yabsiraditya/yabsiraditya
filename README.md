@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yabsiraditya's Stats](https://github-readme-stats.vercel.app/api?username=yabsiraditya&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![yabsiraditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yabsiraditya&theme=vue&show_icons=true&hide_border=true&layout=compact)
-![yabsiraditya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yabsiraditya&theme=vue&hide_border=true)
-![yabsiraditya's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabsiraditya&theme=vue)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
