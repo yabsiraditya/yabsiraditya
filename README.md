@@ -1,24 +1,23 @@
-### Hi there 👋
+<div align="center">
+<h2>👋 Hello! I'm Yabsir</h2>
+<p>
+  <a href="https://finalproject4-webportfolio.netlify.app/">🌐 Website</a> •
+  <a href="mailto:yabsir.aditya@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/yabsiraditya/">💼 Linkedin</a> 
+</p>
 
-**yabsiraditya/yabsiraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,bootstrap,figma)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</div>
 
 <div align="center">
   <div style="display: flex; align-items:center;" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabsiraditya&theme=vue" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yabsiraditya&theme=vue" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yabsiraditya&theme=vue" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yabsiraditya&theme=vue&hide_border=true" />
   </div>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
