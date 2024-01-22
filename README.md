@@ -12,8 +12,8 @@
 
 <div align="center">
   <div style="display: flex; align-items:center;" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yabsiraditya&theme=vue" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yabsiraditya&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yabsiraditya&theme=vue&hide=prs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yabsiraditya&theme=vue&hide_border=true" />
   </div>
 </div>
