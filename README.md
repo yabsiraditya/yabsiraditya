@@ -1,9 +1,9 @@
 <div align="center">
 <h2>👋 Hello! I'm Yabsir</h2>
 <p>
-  <a href="https://finalproject4-webportfolio.netlify.app/">🌐 Website</a> •
-  <a href="mailto:yabsir.aditya@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/yabsiraditya/">💼 Linkedin</a> 
+  <a target="_blank" href="https://finalproject4-webportfolio.netlify.app/">🌐 Website</a> •
+  <a target="_blank" href="mailto:yabsir.aditya@gmail.com">📧 Email</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/yabsiraditya/">💼 Linkedin</a> 
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,bootstrap,figma)](https://skillicons.dev)
