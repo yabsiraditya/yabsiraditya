@@ -27,14 +27,14 @@ I still need to learn a lot to become a full stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 30 January 2024
+From: 15 August 2023 - To: 31 January 2024
 
-Total Time: 4 hrs 1 min
+Total Time: 5 hrs 28 mins
 
-JavaScript   3 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.97 %
-HTML         19 mins         >>-----------------------   07.96 %
-CSS          7 mins          >------------------------   03.08 %
-Other        2 mins          -------------------------   00.99 %
+JavaScript   4 hrs 59 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.43 %
+HTML         21 mins         >>-----------------------   06.41 %
+CSS          7 mins          >------------------------   02.24 %
+Other        6 mins          -------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
