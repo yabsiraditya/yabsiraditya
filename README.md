@@ -11,11 +11,6 @@ I still need to learn a lot to become a full stack developer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,java,tailwind,bootstrap,figma)](https://skillicons.dev)
 
-#### ☕ Support Me :
-<div>
-  <a href="https://www.buymeacoffee.com/yabsiraditya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
-
 #### ⚡ Github Stats :
 <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabsiraditya&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
