@@ -9,7 +9,7 @@ I still need to learn a lot to become a full stack developer
 
 #### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,java,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,java,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 #### ⚡ Github Stats :
 <div>
