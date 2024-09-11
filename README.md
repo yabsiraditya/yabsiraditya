@@ -14,7 +14,7 @@ I still need to learn a lot to become a full stack developer
 #### ⚡ Github Stats :
 <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabsiraditya&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabsiraditya&layout=compact&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabsiraditya&layout=compact&langs_count=10&theme=vue" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yabsiraditya&theme=vue&hide_border=true" />
 </div>
 
