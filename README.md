@@ -23,7 +23,7 @@ I still need to learn a lot to become a full stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 13 September 2024
+From: 15 August 2023 - To: 14 September 2024
 
 Total Time: 119 hrs 24 mins
 
