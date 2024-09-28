@@ -23,20 +23,20 @@ I still need to learn a lot to become a full stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 26 September 2024
+From: 15 August 2023 - To: 27 September 2024
 
-Total Time: 155 hrs 46 mins
+Total Time: 157 hrs 36 mins
 
-Python           40 hrs 30 mins  >>>>>>-------------------   25.02 %
-PHP              39 hrs 50 mins  >>>>>>-------------------   24.60 %
-Dart             19 hrs 17 mins  >>>----------------------   11.92 %
-JavaScript       16 hrs 30 mins  >>>----------------------   10.20 %
-Java             11 hrs 23 mins  >>-----------------------   07.04 %
-HTML             11 hrs 21 mins  >>-----------------------   07.01 %
-Blade Template   7 hrs 15 mins   >------------------------   04.48 %
-CSS              7 hrs 6 mins    >------------------------   04.39 %
-Other            6 hrs 7 mins    >------------------------   03.78 %
-YAML             59 mins         -------------------------   00.62 %
+Python           41 hrs 42 mins  >>>>>>-------------------   25.47 %
+PHP              39 hrs 50 mins  >>>>>>-------------------   24.33 %
+Dart             19 hrs 45 mins  >>>----------------------   12.07 %
+JavaScript       16 hrs 40 mins  >>>----------------------   10.18 %
+Java             11 hrs 23 mins  >>-----------------------   06.96 %
+HTML             11 hrs 21 mins  >>-----------------------   06.93 %
+Blade Template   7 hrs 15 mins   >------------------------   04.43 %
+CSS              7 hrs 6 mins    >------------------------   04.34 %
+Other            6 hrs 7 mins    >------------------------   03.74 %
+YAML             59 mins         -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
