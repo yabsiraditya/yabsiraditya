@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/yabsiraditya/yabsiraditya/output/snake.svg" alt="Snake animation" />
+
+
 ## Hi <img width="35em" src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" /> I am [Yabsir Aditya!](https://github.com/yabsiraditya/)
     
 [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yabsir.aditya@gmail.com)
