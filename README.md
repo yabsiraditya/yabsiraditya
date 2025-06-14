@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yabsiraditya/yabsiraditya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yabsiraditya/yabsiraditya/output/snake.svg" alt="Snake animation 1" />
 
 
 ## Hi <img width="35em" src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" /> I am [Yabsir Aditya!](https://github.com/yabsiraditya/)
