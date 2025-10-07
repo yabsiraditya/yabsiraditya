@@ -8,11 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yabsir.aditya/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yabsir.y/)
 
-I still need to learn a lot to become a full stack developer
-
-#### Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,java,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 #### ⚡ Github Stats :
 <div>
